@@ -100,6 +100,6 @@ Want to contribute to the project? Great! Please follow the next steps in order 
 [issues-shield]: https://img.shields.io/github/issues/freshSauce/easygen.svg?style=for-the-badge
 [issues-url]: https://github.com/freshSauce/easygen/issues
 [license-shield]: https://img.shields.io/github/license/freshSauce/easygen.svg?style=for-the-badge&cacheSeconds=3600
-[license-url]: https://github.com/freshSauce/easygen/blob/main/LICENSE
+[license-url]: https://github.com/freshSauce/easygen/blob/master/LICENSE
 [telegram-shield]: https://img.shields.io/badge/-@freshSauce-black?style=for-the-badge&logo=telegram&colorB=0af
 [telegram-url]: https://t.me/freshSauce
