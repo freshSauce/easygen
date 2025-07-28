@@ -28,7 +28,7 @@ if validate_license("license.lic", "public_key.pem"):
 ```
 
 License generation
-```bash
+```python
 from easygen.license_generator import generate_license
 
 generate_license(
