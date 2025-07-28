@@ -7,7 +7,7 @@
 
 
 # easygen
-**Easygen** is a lightweight, easy-to-integrate library that allows you to **generate and validate software licenses** in Python using **digital signatures**. Protect your applications from unauthorized use by linking licenses to the user's machine via HWID, all without relying on external servers. EasyGen is a lightweight and easy to use library that allow
+**Easygen** is a lightweight, easy-to-integrate library that allows you to **generate and validate software licenses** in Python using **digital signatures**. Protect your applications from unauthorized use by linking licenses to the user's machine via HWID, all without relying on external servers.
 
 ## Features
 
