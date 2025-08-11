@@ -6,4 +6,4 @@ setup(
     description="License generation and validation system with digital signature",
     author="Valentino Vazquez",
     author_email="netzhabelmonte@gmail.com"
-
+)
